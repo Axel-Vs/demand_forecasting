@@ -1,2 +1,2 @@
-# Demand Forecasting
-Demand Forecasting using Transfer Learning in Python
+# Demand Forecasting using Transfer Learning in Python
+This project creates a demand forecasting model using transfer learning techniques in Python, using the "Store Item Demand Forecasting Challenge" dataset from Kaggle. The objective is to predict 3 months of item sales at different stores based on historical sales data. Transfer learning will be employed to leverage existing knowledge and patterns learned from other domains and apply them to demand forecasting. The project will involve installing and using popular Python libraries such as NumPy, Pandas, Scikit-learn, TensorFlow, and Keras. The final model will be tested on the dataset to evaluate its accuracy and reliability. This project is for data scientists and developers interested in machine learning, transfer learning, and demand forecasting. The Kaggle dataset used in this project will be properly cited in the GitHub repository.
