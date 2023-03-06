@@ -1,2 +1,2 @@
 # Demand Forecasting
-Supported with Transfer Learning
+Demand Forecasting using Transfer Learning in Python
